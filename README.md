@@ -1,4 +1,5 @@
-This ViT implemetnation was based on teh tutorials by mdbourke [paper replicating](https://www.learnpytorch.io/08_pytorch_paper_replicating/) 
+This ViT implemetnation was based on teh tutorials by mdbourke [paper replicating](https://www.learnpytorch.io/08_pytorch_paper_replicating/).
+
 The Python scripts in this directory were generated using the notebook [05. Going Modular Part 2 (script mode)](https://github.com/mrdbourke/pytorch-deep-learning/blob/main/going_modular/05_pytorch_going_modular_script_mode.ipynb).
 
 They breakdown as follows: 
